@@ -1,0 +1,52 @@
+/*-- CSS page HW9 -->
+<!-- Project Name: JavaJam Web Site (HW9)
+Author: Emilie Blecker
+Date Last Modified: 3/31/2019*/
+
+body
+{
+    color: #493d26; 
+    background-color: #ffebcd;
+    font-family:arial;
+    font-size:16px;
+    font-style:bold;
+    text-align: center;
+    line-height: 200%;
+    list-style-position: inside;
+
+}
+
+h1
+{
+    color: #ffebcd;
+    background-color: #6f4e37;
+    line-height: 200%;
+}
+
+nav
+{
+    font-style:bold;
+    text-align: center;
+}
+
+h2{
+    font-size: 30px;
+}
+
+div
+{
+    font-size: 14px;
+}
+
+footer
+{
+    font-size: 12px;
+    font-style: italic;
+}
+ 
+#wrapper
+{
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+}
