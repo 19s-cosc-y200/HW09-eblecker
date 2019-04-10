@@ -5,43 +5,39 @@ Date Last Modified: 3/31/2019*/
 
 body
 {
-    color: #493d26; 
-    background-color: #ffebcd;
+    color: #221811; 
+    background-color: #fcebb6;
     font-family:arial;
-    font-size:16px;
-    font-style:bold;
+    /*font-style:bold;
     text-align: center;
     line-height: 200%;
-    list-style-position: inside;
+    list-style-position: inside;*/
 
+}
+
+header
+{
+    background-color:#d2b48c;
+    text-align: center;
 }
 
 h1
 {
-    color: #ffebcd;
-    background-color: #6f4e37;
     line-height: 200%;
 }
 
 nav
 {
-    font-style:bold;
+    font-weight: bold;
     text-align: center;
-}
-
-h2{
-    font-size: 30px;
-}
-
-div
-{
-    font-size: 14px;
 }
 
 footer
 {
-    font-size: 12px;
+    background-color: #d2b48c;
+    font-size: .60em;
     font-style: italic;
+    text-align: center;
 }
  
 #wrapper
